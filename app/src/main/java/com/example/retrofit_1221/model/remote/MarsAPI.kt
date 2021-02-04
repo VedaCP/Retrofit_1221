@@ -1,6 +1,6 @@
-package com.example.retrofit_1221
+package com.example.retrofit_1221.model.remote
 
-import com.example.retrofit_1221.POJO.MarsTerrain
+import com.example.retrofit_1221.model.POJO.MarsTerrain
 import retrofit2.Call
 import retrofit2.Response
 import retrofit2.http.GET

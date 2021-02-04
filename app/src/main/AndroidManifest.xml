@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Retrofit_1221">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.retrofit_1221.ui.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.Retrofit_1221.NoActionBar">
             <intent-filter>
